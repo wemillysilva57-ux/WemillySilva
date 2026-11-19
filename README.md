@@ -1,5 +1,5 @@
 # WemillySilva
-<p>i´m a engineering software student,interested in management area and integration betwen technology,business and strategy.i seek to develop broad, systemic view of the software.my goal is understand how each stage connects to contribute strategically to the development of products and solutions that generate value.</p>
+<p>i´m a engineering software student,interested in management area and integration between technology,business and strategy.i seek to develop broad, systemic view of the software.my goal is understand how each stage connects to contribute strategically to the development of products and solutions that generate value.</p>
 
 <br>
 
